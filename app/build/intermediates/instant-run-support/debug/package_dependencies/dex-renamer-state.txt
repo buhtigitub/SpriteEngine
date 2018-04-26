@@ -1,0 +1,25 @@
+#Tue Mar 21 18:04:59 GMT 2017
+renamed.7=classes4.dex
+renamed.6=classes7.dex
+renamed.5=classes5.dex
+renamed.4=classes8.dex
+renamed.3=classes6.dex
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.7=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b7f36c09117dd6d4dc96b71255b5d6f042f56ef4
+base.6=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.2.0_2ab30b931c9d56cad245ea2f9ccaf9afd26e1815
+base.5=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b82f17023299ec71fea84972b0dbdfdf0f553384
+base.4=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.2.0_6d2cb3f1d6119ff0121cad162a36fe755eca6ff9
+base.3=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c6bed79b05b0277b27553c57c960c80a655840e9
+base.2=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1c8b153b29be569f5683407879b3d0ab1d682585
+base.1=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6641c5d10dfc673342d3a98e759bba90be028d08
+base.0=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_830f1cc35378025e5cc486c951c576717e671141
+file.7=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b7f36c09117dd6d4dc96b71255b5d6f042f56ef4\\classes.dex
+file.6=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.2.0_2ab30b931c9d56cad245ea2f9ccaf9afd26e1815\\classes.dex
+file.5=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b82f17023299ec71fea84972b0dbdfdf0f553384\\classes.dex
+file.4=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.2.0_6d2cb3f1d6119ff0121cad162a36fe755eca6ff9\\classes.dex
+file.3=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c6bed79b05b0277b27553c57c960c80a655840e9\\classes.dex
+file.2=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1c8b153b29be569f5683407879b3d0ab1d682585\\classes.dex
+file.1=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6641c5d10dfc673342d3a98e759bba90be028d08\\classes.dex
+file.0=C\:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_830f1cc35378025e5cc486c951c576717e671141\\classes.dex

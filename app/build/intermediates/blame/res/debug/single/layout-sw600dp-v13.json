@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Tony\\.android\\build-cache\\4b266e465177e7cbe161d344ee9aa3ca6768a420\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]

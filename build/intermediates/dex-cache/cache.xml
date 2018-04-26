@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tony\.android\build-cache\5bb021073206867ac03d91889c182d6f1d974366\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\Tony\Documents\AndroidStudio\HelloWorldGD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c8b153b29be569f5683407879b3d0ab1d682585\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tony\.android\build-cache\01c14336e01a6106c08363a1ae46fa9cd7c591e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\Tony\Documents\AndroidStudio\HelloWorldGD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6bed79b05b0277b27553c57c960c80a655840e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tony\Documents\AndroidStudio\HelloWorldGD\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b80582d108fae6f376b425452f02e7b2770d455">
+        <dex dex="C:\Users\Tony\Documents\AndroidStudio\HelloWorldGD\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ea633cd25b1ff3b524679d0878e72ac4633e0a3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tony\.android\build-cache\1b9b80b7e80d300fd97569626ee2bb6d221ad92f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="C:\Users\Tony\Documents\AndroidStudio\HelloWorldGD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_830f1cc35378025e5cc486c951c576717e671141\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tony\.android\build-cache\4b266e465177e7cbe161d344ee9aa3ca6768a420\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="C:\Users\Tony\Documents\AndroidStudio\HelloWorldGD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7f36c09117dd6d4dc96b71255b5d6f042f56ef4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tony\Documents\AndroidStudio\HelloWorldGD\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Tony\Documents\AndroidStudio\HelloWorldGD\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8a207fc88b333458128ff6dc31b440764e64f9f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tony\.android\build-cache\c3eeccbf268348caf4c88307e31215a9c3274e74\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\Tony\Documents\AndroidStudio\HelloWorldGD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b82f17023299ec71fea84972b0dbdfdf0f553384\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tony\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\Tony\Documents\AndroidStudio\HelloWorldGD\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_6d2cb3f1d6119ff0121cad162a36fe755eca6ff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tony\.android\build-cache\13e0ec23af31a50f9d95eaa60540df0b8fbc3e2d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\Tony\Documents\AndroidStudio\HelloWorldGD\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6641c5d10dfc673342d3a98e759bba90be028d08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tony\.android\build-cache\13e0ec23af31a50f9d95eaa60540df0b8fbc3e2d\output\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\Tony\Documents\AndroidStudio\HelloWorldGD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_2ab30b931c9d56cad245ea2f9ccaf9afd26e1815\classes.dex" />
+    </item>
+
+</items>

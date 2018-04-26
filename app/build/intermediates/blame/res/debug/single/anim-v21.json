@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Tony\\.android\\build-cache\\4b266e465177e7cbe161d344ee9aa3ca6768a420\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorld\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorldGD\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Tony\\.android\\build-cache\\4b266e465177e7cbe161d344ee9aa3ca6768a420\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

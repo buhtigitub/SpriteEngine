@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\xpbar.png",
+        "source": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorld\\app\\src\\main\\res\\drawable-nodpi\\xpbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\sky_clouds.png",
+        "source": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorld\\app\\src\\main\\res\\drawable-nodpi\\sky_clouds.png"
+    },
+    {
+        "merged": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\sky_.png",
+        "source": "C:\\Users\\Tony\\Documents\\AndroidStudio\\HelloWorld\\app\\src\\main\\res\\drawable-nodpi\\sky_.png"
+    }
+]
